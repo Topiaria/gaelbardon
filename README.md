@@ -1,4 +1,4 @@
-# Gaël Bardon – Consultant Sécurité Offensive
+# Gaël Bardon – Pentester
 
 Pentester en formation continue, certifié **RS6092 – Réaliser des tests 
 d'intrusion (M2i / France Compétences)**.
@@ -7,8 +7,7 @@ Issu d'un background en communication d'entreprise, j'apporte une double
 compétence rare : capacité technique offensive + restitution claire des 
 vulnérabilités pour des interlocuteurs non-techniques.
 
-🎯 Objectif : missions pentest freelance (Web, Réseau) — OSCP en cours de 
-préparation
+🎯 Objectif : missions pentest freelance (Web, Réseau) — OSCP en préparation
 
 ---
 
